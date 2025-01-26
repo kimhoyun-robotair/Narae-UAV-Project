@@ -4,7 +4,7 @@
   <name>my_package</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="chghks430@naver.com">aaa</maintainer>
+  <maintainer email="example_email@example.com">example_name</maintainer>
   <license>TODO: License declaration</license>
 
   <depend>rclp</depend>
