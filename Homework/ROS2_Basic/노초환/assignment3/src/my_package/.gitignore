@@ -1,0 +1,37 @@
+# ROS 2 colcon 빌드 디렉토리
+build/
+install/
+log/
+
+# Python 캐시 파일
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode 설정 파일 (선택)
+.vscode/
+
+# ROS 2 workspace 내 불필요한 colcon 관련 파일
+colcon.meta
+.colcon/
+ros2_ws/
+
+# CMake 관련 빌드 파일
+CMakeLists.txt.user
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/
+
+# 실행 파일 및 바이너리
+*.so
+*.o
+*.obj
+*.a
+*.exe
+*.dll
+
+# 환경 설정 파일 (선택적으로 제외 가능)
+*.swp
+*.swo
+*.DS_Store
