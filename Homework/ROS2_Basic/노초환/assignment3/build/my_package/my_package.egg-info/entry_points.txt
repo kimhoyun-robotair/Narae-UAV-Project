@@ -1,4 +1,0 @@
-[console_scripts]
-publisher = my_package.publisher_node:main
-subscriber = my_package.subscriber_node:main
-
